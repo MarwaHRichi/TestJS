@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(120deg, rgb(98, 98, 189), rgb(0, 255, 234));
+    color: white;
+    /*min-height: 100vh;*/
+}
+
+h2{
+    margin-left: 40px;
+    color: rgb(80, 51, 80);;
+    text-align: center;
+}
+.inscrire{
+   /* background-color: white;*/
+    margin-top: 30px;   
+    height: 850px;
+    width: 600px;
+    text-align: left;
+    margin-left: 400px;
+    /*margin-right: auto;*/
+    /*border: 1px solid rgb(204, 203, 203);*/
+}
+label{
+    width: 500px;
+}
+.btn-sinscrire{
+    width: 550px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}

@@ -1,0 +1,55 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(120deg, rgb(98, 98, 189), rgb(0, 255, 234));
+    color: white;
+    /*min-height: 100vh;*/
+}
+
+/*.container-fluid{
+    background-color: white;
+}*/
+h2{
+    color: rgb(80, 51, 80);;
+    text-align: center; 
+}
+.connecter{
+    /*background-color: white;*/
+    margin-top: 30px;
+    height: 380px;
+    width: 550px;
+    margin-left: 500px;
+    text-align: left;
+    /*border: solid rgb(204, 203, 203) 1px;*/
+    
+}
+.form-1{
+    text-align: justify;
+    margin-left: -380px;
+    margin-top: 20px;
+}
+.form-control{
+    width: 450px;
+}
+label{
+    width: 500px;
+}
+.btn-connexion{
+    width: 450px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    /*width: 180px;*/
+}
+.motpass{
+    color: rgb(52, 163, 207);
+    font-size: 12px;
+    margin-left: 190px;    
+}
+
